@@ -1,2 +1,0 @@
-# FTP
-FTPserver and client
